@@ -57,7 +57,7 @@ AddLanguage('EN','english',{
 	"Ctrl": "/",
 	"Ctrl-click": "/",
 	"Esc": "/",
-	"Cookies": "/",
+	"Johns": "/",
 	"%1 day": [
 		"%1 day",
 		"%1 days"
@@ -814,10 +814,10 @@ AddLanguage('EN','english',{
 		"\"at this point, cookies permeate the economy\", says economist. \"If we start eating anything else, we're all dead.\"",
 		"cookies now illegal in some backwards country nobody cares about. Political tensions rising; war soon, hopefully."
 	],
-	"You feel like making cookies. But nobody wants to eat your cookies.": "/",
-	"Your first batch goes to the trash. The neighborhood raccoon barely touches it.": "/",
-	"Your family accepts to try some of your cookies.": "/",
-	"Your cookies are popular in the neighborhood.": "/",
+	"hola me llamo John, y usted.": "/",
+	"'your cookies are shit' -john": "/",
+	"'ok maybe theyre fine' -john": "/",
+	"john't on yt": "/",
 	"People are starting to talk about your cookies.": "/",
 	"Your cookies are talked about for miles around.": "/",
 	"Your cookies are renowned in the whole town!": "/",
