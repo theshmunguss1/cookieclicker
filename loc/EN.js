@@ -3,21 +3,21 @@ AddLanguage('EN','english',{
 		"language": "en",
 		"plural-forms": "nplurals=2;plural=(n!=1);"
 	},
-	"cookie": "/",
-	"sugar lump": "/",
-	"heavenly chip": "/",
-	"wrinkler": "/",
-	"building": "/",
-	"upgrade": "/",
-	"golden cookie": "/",
-	"grandmapocalypse": "/",
-	"%1 cookie": [
-		"%1 cookie",
-		"%1 cookies"
+	"john": "/",
+	"sugary john": "/",
+	"heavenly john": "/",
+	"wrinkly john": "/",
+	"john building": "/",
+	"john upgrade": "/",
+	"golden john": "/",
+	"johnapocalypse": "/",
+	"%1 john": [
+		"%1 john",
+		"%1 johns"
 	],
-	"%1 sugar lump": [
-		"%1 sugar lump",
-		"%1 sugar lumps"
+	"%1 sugary john": [
+		"%1 sugary john",
+		"%1 sugary johns"
 	],
 	"%1 heavenly chip": [
 		"%1 heavenly chip",
